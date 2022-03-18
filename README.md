@@ -2,9 +2,9 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Daniel Rojas**
 
-Time spent: **#** hours spent in total
+Time spent: **5** hours spent in total
 
 Link to project: (insert your link here, should start with https://glitch.com...)
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](http://g.recordit.co/wroKWzfXxb.gif "Logo")
+![]("http://g.recordit.co/wroKWzfXxb.gif")
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
