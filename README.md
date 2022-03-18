@@ -6,7 +6,7 @@ Submitted by: **Daniel Rojas**
 
 Time spent: **5** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/flicker-determined-pressure)
 
 ## Required Functionality
 
