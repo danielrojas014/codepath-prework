@@ -39,45 +39,24 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-<<<<<<< HEAD
 ![](http://g.recordit.co/vTyiW3QyLR.gif "gif1")
 ![](http://g.recordit.co/mBcYXUF94V.gif "gif2")
 ![](http://g.recordit.co/sYUJTChisa.gif "gif3")
-=======
-![](http://http://g.recordit.co/uSapoBdTdn.gif "gif1")
-![](gif2-link-here)
-![](gif3-link-here)
->>>>>>> 7ac7fef3f736b40f7f18882bf0adea6b66d10506
-![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
 https://www.delftstack.com/howto/javascript/javascript-create-array-of-length/
-
 https://www.delftstack.com/howto/html/html-button-with-image/
-
 https://www.w3schools.com/howto/howto_css_outline_buttons.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-A challenge I encountered in creating the submission for the pre-work memory game was not being deeply knowledgeable in HTML, CSS, or JavaScript. It was 
-something quite different for me because it is a little different from other programming languages I know like Python or Java. Though it was difficult at
-the beginning, I was able to overcome this challenge by researching during the project on how to do specific features that I wanted to implement to my
-memory game. By doing this, I was able to learn more about these three languages and be confident enough to add my own touch to the game to make it more
-original. Another challenge I faced was when I tried to generate a random pattern at the beginning of the game. At first, I put the for loop and outside of
-the startGame function, but then I realized that I was supposed to put it inside of the function. I then had to use the .length property to make the for
-loop the same size as the empty array of a specific length that I created. Despite the challenges I faced while creating the game, this experience helped me
-improve my skills in programming and web development, which could help me in the future.
+A challenge I encountered in creating the submission for the pre-work memory game was not being deeply knowledgeable in HTML, CSS, or JavaScript. It was something quite different for me because it is a little different from other programming languages I know like Python or Java. Though it was difficult at the beginning, I was able to overcome this challenge by researching during the project on how to do specific features that I wanted to implement to my memory game. By doing this, I was able to learn more about these three languages and be confident enough to add my own touch to the game to make it more original. Another challenge I faced was when I tried to generate a random pattern at the beginning of the game. At first, I put the for loop and outside of the startGame function, but then I realized that I was supposed to put it inside of the function. I then had to use the .length property to make the for loop the same size as the empty array of a specific length that I created. Despite the challenges I faced while creating the game, this experience helped me improve my skills in programming and web development, which could help me in the future.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-I am extremely interested in how web developers make web applications that require a lot of action from the user’s part. It must require many lines of code for
-the application to be as efficient as they usually are. One question that I have about web development is how …
+I am extremely interested in how web developers make web applications that require a lot of action from the user’s part. It must require many lines of code for the application to be as efficient as they usually are. One question that I have about web development is how …
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-If I had a few more hours to work on this project, I would have put low background music for the player to be entertained while he tries to put in the correct
-pattern of the buttons. In addition to that, I also would have liked to make the background of the application look more colorful by putting something like disco
-lights with distinct colors. Another feature I would have loved to put is for all the buttons to flash red repeatedly and make a “game over” sound effect when the
-player guessed the pattern wrong and show them what the correct pattern was right after that. Then make the buttons flash green repeatedly when the user won with
-a “winner” sound effect. Putting these features would have made the game even more interactive and enjoyable for the user.
+If I had a few more hours to work on this project, I would have put low background music for the player to be entertained while he tries to put in the correct pattern of the buttons. In addition to that, I also would have liked to make the background of the application look more colorful by putting something like disco lights with distinct colors. Another feature I would have loved to put is for all the buttons to flash red repeatedly and make a “game over” sound effect when the player guessed the pattern wrong and show them what the correct pattern was right after that. Then make the buttons flash green repeatedly when the user won with a “winner” sound effect. Putting these features would have made the game even more interactive and enjoyable for the user.
 
 
 
