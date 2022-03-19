@@ -39,15 +39,23 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+<<<<<<< HEAD
 ![](http://g.recordit.co/vTyiW3QyLR.gif "gif1")
 ![](http://g.recordit.co/mBcYXUF94V.gif "gif2")
 ![](http://g.recordit.co/sYUJTChisa.gif "gif3")
+=======
+![](http://http://g.recordit.co/uSapoBdTdn.gif "gif1")
+![](gif2-link-here)
+![](gif3-link-here)
+>>>>>>> 7ac7fef3f736b40f7f18882bf0adea6b66d10506
 ![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
 https://www.delftstack.com/howto/javascript/javascript-create-array-of-length/
+
 https://www.delftstack.com/howto/html/html-button-with-image/
+
 https://www.w3schools.com/howto/howto_css_outline_buttons.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
