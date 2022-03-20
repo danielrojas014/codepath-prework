@@ -66,7 +66,7 @@ If I had a few more hours to work on this project, I would have put low backgrou
 
 ## License
 
-    Copyright Daniel Roja
+    Copyright Daniel Rojas
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
