@@ -1,30 +1,81 @@
-# Hello website!
+# Pre-work - *Memory Game*
 
-This is a basic HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen ✨ immediately in the preview window. On the left you'll see the files that make up your site, including HTML, JavaScript, and CSS. You can upload assets like images or audio in `assets`. The rest is up to you and your imagination. 🦄
+**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-## What's in this project?
+Submitted by: **Daniel Rojas**
 
-← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
+Time spent: **5.5** hours spent in total
 
-← `index.html`: This is the main web page for your site. The HTML defines the structure and content of the page using _elements_. You'll see references in the HTML to the JS and CSS files. Try clicking the image in the center of the page!
+Link to project: (https://glitch.com/edit/#!/flicker-determined-pressure)
 
-← `style.css`: CSS files add styling rules to your content. The CSS applies styles to the elements in your HTML page. The style rules also make the image move when you click it.
+## Required Functionality
 
-← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript. The code in the JavaScript file runs when the page loads, and when the visitor clicks the button you can add below.
+The following **required** functionality is complete:
 
-Open each file and check out the comments (in gray) for more info.
+* [x] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* [x] "Start" button toggles between "Start" and "Stop" when clicked. 
+* [x] Game buttons each light up and play a sound when clicked. 
+* [x] Computer plays back sequence of clues including sound and visual cue for each button
+* [x] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
+* [x] User wins the game after guessing a complete pattern
+* [x] User loses the game after an incorrect guess
 
-## Try this next 🏗️
+The following **optional** features are implemented:
 
-Take a look in `TODO.md` for next steps you can try out in your new site!
+* [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [x] Buttons use a pitch (frequency) other than the ones in the tutorial
+* [ ] More than 4 functional game buttons
+* [ ] Playback speeds up on each turn
+* [x] Computer picks a different pattern each time the game is played
+* [ ] Player only loses after 3 mistakes (instead of on the first mistake)
+* [x] Game button appearance change goes beyond color (e.g. add an image)
+* [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
+* [ ] User has a limited amount of time to enter their guess on each turn
 
-___Want a minimal version of this project to build your own website? Check out [Blank Website](https://glitch.com/edit/#!/remix/glitch-blank-website)!___
+The following **additional** features are implemented:
 
-![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
+- [x] Changed font style and size of the text
 
-## You built this with Glitch!
+## Video Walkthrough (GIF)
 
-[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
+If you recorded multiple GIFs for all the implemented features, you can add them here:
+![](http://g.recordit.co/vTyiW3QyLR.gif "gif1")
+![](http://g.recordit.co/mBcYXUF94V.gif "gif2")
+![](http://g.recordit.co/sYUJTChisa.gif "gif3")
+![](gif4-link-here)
 
-- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
-- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+## Reflection Questions
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+https://www.delftstack.com/howto/javascript/javascript-create-array-of-length/, https://www.delftstack.com/howto/html/html-button-with-image/, https://www.w3schools.com/howto/howto_css_outline_buttons.asp
+
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+A challenge I encountered in creating the submission for the pre-work memory game was not being deeply knowledgeable in HTML, CSS, or JavaScript, although I have had little experience on it. It was something quite different for me because it is a little different from other programming languages I know like Python or Java. Though it was difficult at the beginning, I was able to overcome this challenge by researching on how to code in these languages during the project, especially looking at how to do specific features that I wanted to implement to my memory game. By doing this, I was able to learn more about these three languages and be confident enough to add my own touch to the game to make it more original. Another challenge I faced was when I tried to generate a random pattern at the beginning of the game. At first, I put the for loop outside of the startGame function, but then I realized that I was supposed to put it inside of the function. I then had to use the .length property to make the for loop the same size as the empty array of a specific length that I created. Despite the challenges I faced while creating the game, this experience helped me to improve my skills in programming and web development, which will help me in the future.
+
+3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+I am extremely interested in how web developers make web applications that require a lot of action from the user’s part. It must require many lines of code for the application to be as efficient as they usually are. One question that I have about web development is how developers make websites that open other windows as the user is being taken to different parts of the site. I have seen many websites where there are buttons relating to different topics and then once the user clicks on it, it takes him there right away. This is a skill I would love to learn, considering the usefulness of this ability and the benefits it offers. Websites that offer many features enhances the experience of the users and gives them the chance to use the web application to its fullest potential.
+
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+If I had a few more hours to work on this project, I would have put low background music for the players to enjoy while they try to input the correct pattern of the buttons, as was previously shown in the sequence of clues. In addition to that, I also would have liked to make the background of the application look more colorful by putting something similar to disco lights with many distinct colors. Another feature I would have especially loved to put is for all the buttons to flash red repeatedly and make a “game over” sound effect when the player guessed the pattern wrong, and show them the correct pattern immediately after that. Then make the buttons flash green repeatedly when the user won with a “winner” sound effect. Putting these features would have made the game even more interactive and enjoyable for the user.
+
+
+
+## Interview Recording URL Link
+
+[My 5-minute Interview Recording](your-link-here)
+
+
+## License
+
+    Copyright Daniel Rojas
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
