@@ -42,12 +42,11 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![](http://g.recordit.co/vTyiW3QyLR.gif "gif1")
 ![](http://g.recordit.co/mBcYXUF94V.gif "gif2")
 ![](http://g.recordit.co/sYUJTChisa.gif "gif3")
+![](gif4-link-here)
 
 ## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
-https://www.delftstack.com/howto/javascript/javascript-create-array-of-length/
-https://www.delftstack.com/howto/html/html-button-with-image/
-https://www.w3schools.com/howto/howto_css_outline_buttons.asp
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+https://www.delftstack.com/howto/javascript/javascript-create-array-of-length/, https://www.delftstack.com/howto/html/html-button-with-image/, https://www.w3schools.com/howto/howto_css_outline_buttons.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 A challenge I encountered in creating the submission for the pre-work memory game was not being deeply knowledgeable in HTML, CSS, or JavaScript, although I have had little experience on it. It was something quite different for me because it is a little different from other programming languages I know like Python or Java. Though it was difficult at the beginning, I was able to overcome this challenge by researching on how to code in these languages during the project, especially looking at how to do specific features that I wanted to implement to my memory game. By doing this, I was able to learn more about these three languages and be confident enough to add my own touch to the game to make it more original. Another challenge I faced was when I tried to generate a random pattern at the beginning of the game. At first, I put the for loop outside of the startGame function, but then I realized that I was supposed to put it inside of the function. I then had to use the .length property to make the for loop the same size as the empty array of a specific length that I created. Despite the challenges I faced while creating the game, this experience helped me to improve my skills in programming and web development, which will help me in the future.
