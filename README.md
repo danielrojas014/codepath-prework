@@ -61,7 +61,7 @@ If I had a few more hours to work on this project, I would have put low backgrou
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://us02web.zoom.us/rec/share/xFf4OohqzJZ-v9TbSWTMV6tC6hpK9pKRsbKpqq5rFKNjDcz45AxA8vINFCDBylzB.bo5OedsNaiRKw8dF)
 
 
 ## License
